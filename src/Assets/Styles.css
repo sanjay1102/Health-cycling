@@ -1,0 +1,67 @@
+body{
+    background-color:#ebebeb;
+}
+.REgBox{
+    width: 26rem;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 0 0 6px 0 rgba(0, 115,230, 0.3);
+    background: #f6f8fa;
+    align-items: center;
+    margin: auto;
+  }
+  .RegImg{
+    width: 12rem;
+    height: 10rem;
+    border-radius: 50%;
+    border: 1px solid #12a8a8;
+    align-items: center;
+    display: flex;
+    margin: auto;
+  }
+.RegForm{
+    width: 24rem;
+    align-items: center;
+    display: grid;
+    padding: 24px;
+    padding-left: 40px;
+}
+ h1{
+    font-family: 'Cormorant Garamond', serif;
+    color: #666363;
+    text-align: center;
+    text-shadow: none;
+    background-color: initial;
+    border: 0;
+ }
+ .mr-3{
+     color: #959da5;
+     font-size: 14px;
+     text-align: center;
+     display: block;
+ }
+ /*Navbar*/
+ .logo{
+    width: 6rem;
+    height: auto;
+ }
+ /*Sidebar*/
+ a{
+     color: black;
+ }
+ .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+     color: #fff;
+     background-color: #415a73;
+     text-align: center;
+     width: 200px;
+ }
+
+ /*ADD RESERVATION*/
+ .mb-3{
+     width: 40%;
+ }
+
+ /*ADD BICYCLE*/
+ .bicycleForm{
+     width: 650px;
+ }

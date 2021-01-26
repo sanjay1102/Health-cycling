@@ -1,0 +1,17 @@
+h1 {
+  color: green;
+}
+
+.headerWrap {
+  background-color: #f3f3f3;
+  padding: 10px;
+  color: #333;
+  font-size: 25px;
+}
+
+.footerWrap {
+  padding: 20px;
+  background-color: #f3f3f3;
+  color: #333;
+  border-top: 1px solid #333;
+}

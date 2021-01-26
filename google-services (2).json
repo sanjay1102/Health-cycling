@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339936465999",
+    "firebase_url": "https://vehicle-8900f.firebaseio.com",
+    "project_id": "vehicle-8900f",
+    "storage_bucket": "vehicle-8900f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339936465999:android:8998818cc233edae6b463a",
+        "android_client_info": {
+          "package_name": "com.example.vehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339936465999-03j5p60qgc6e6a6n1hvbu95hnt60k7ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuuwUAmsZtwkxVPxYnZRu4ijsNFSiUtYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339936465999-03j5p60qgc6e6a6n1hvbu95hnt60k7ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
